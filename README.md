@@ -1,4 +1,4 @@
-# [:ocean: Laminar](https://github.com/dosyago/laminar)
+# [:ocean: Laminar](https://github.com/dosyago/Laminar)
 
 **Laminar** is the on-prem, downloadable, no phone-home web RPA solution to automate any sequence of interactions in the Chrome browser.
 
@@ -24,7 +24,7 @@ Laminar does just what you tell it to do, how you tell it to do it, and as many 
 
 ## Downloading
 
-[Get it!](https://github.com/dosyago/laminar/releases)
+[Get it!](https://github.com/dosyago/Laminar/releases)
 
 ## FAQ
 
@@ -76,7 +76,7 @@ This sort of cloud run is the most complex, because we need to provide things li
 
 ## Development Log
 
-For development notes and progress, see the [issues](@dosyago/laminar/issues), or the [DEVNOTES](DEVNOTES.md)
+For development notes and progress, see the [issues](https://github.com/dosyago/Laminar/issues), or the [DEVNOTES](DEVNOTES.md)
 
 
 
