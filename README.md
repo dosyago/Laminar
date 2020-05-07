@@ -76,7 +76,7 @@ This sort of cloud run is the most complex, because we need to provide things li
 
 ## Development Log
 
-For development notes and progress, see the [issues](/issues), or the [DEVNOTES](DEVNOTES.md)
+For development notes and progress, see the [issues](@dosyago/laminar/issues), or the [DEVNOTES](DEVNOTES.md)
 
 
 
