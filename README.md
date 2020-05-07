@@ -16,7 +16,11 @@ Laminar aims to provide an intuitive interface to easily automate *anything* som
 
 ## Secure, Simple and Open
 
-Because you're on your own machine, you can automate your own internal web-based/browser-based apps, without every leaving your intranet. Nothing you do, and no date about what you're automating, no credentials, no nothing, is ever sent from Laminar to any 3rd-party servers. Laminar does just what you tell it to do, how you tell it to do it, and as many times as you tell it do.
+Because you're on your own machine, you can automate your own internal web-based/browser-based apps, without every leaving your intranet. 
+
+Nothing you do, and no data about what you're automating, no credentials, no nothing, is ever sent from Laminar to any 3rd-party servers. 
+
+Laminar does just what you tell it to do, how you tell it to do it, and as many times as you tell it do.
 
 -------
 
